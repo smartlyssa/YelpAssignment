@@ -31,4 +31,4 @@ Time spent: `~5 hours, not enough`
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](YelpClient.gif)
